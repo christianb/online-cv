@@ -231,20 +231,20 @@ skills:
       - name: Kotlin & Java
         level: 95%
 
-      - name: C/C++
-        level: 450%
+      - name: Coroutines & Flow
+        level: 80%
 
-      - name: GoLang
-        level: 40%
+      - name: JUnit4/5, Mockk, Robolectric, Espresso
+        level: 90%
 
-      - name: Python
-        level: 30%
+      - name: Compose, Room, WorkManager
+        level: 850%
 
-      - name: Ruby
-        level: 5%
+      - name: Detekt, Koin
+        level: 80%
 
-      - name: Haskel
-        level: 5%
+      - name: Python, Go, C/C++, Ruby, Haskel
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
