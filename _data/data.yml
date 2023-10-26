@@ -102,7 +102,7 @@ experiences:
         time: 2019 - 2022
         company: Sensorberg, Berlin
         details: |
-          Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage.
+          [Sensorberg](https://sensorberg.com) develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage.
             - Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
             - Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
             - Integration of third party libraries into Sensorberg SDK
@@ -114,7 +114,7 @@ experiences:
         time: 2016 - 2019
         company: Zattoo, Berlin
         details: |
-          Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices.
+          [Zattoo](https://zattoo.com/company/en/about-us/) is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices.
             - Develop the [Zattoo whitelabel App](https://play.google.com/store/apps/details?id=com.zattoo.player) available for Mobile, AndroidTV and FireTV
             - Increase testability using MVP and Dagger2
             - Integrate RxJava and Room for reactive data observation
@@ -122,9 +122,9 @@ experiences:
             - Integration of Crashlytics
       - role: Junior Android Developer
         time: 2013 - 2016
-        company: Zalando SE, Berlin
+        company: Zalando, Berlin
         details: |
-          As a leading European online platform for fashion and lifestyle we deliver to customers in 25 countries. In our fashion store, they can find a wide assortment from more than 7,000 brands.
+          [Zalando](https://corporate.zalando.com/en/about-us) is a leading European online platform for fashion and lifestyle delivering to customers in 25 countries.
             - Developed and published the first [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
             - Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
             - Developing Backend API (Java / Spring)
