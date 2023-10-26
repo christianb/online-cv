@@ -232,16 +232,16 @@ skills:
         level: 95%
 
       - name: Coroutines & Flow
-        level: 80%
+        level: 85%
 
       - name: JUnit4/5, Mockk, Robolectric, Espresso
         level: 90%
 
       - name: Compose, Room, WorkManager
-        level: 850%
+        level: 80%
 
       - name: Detekt, Koin
-        level: 80%
+        level: 90%
 
       - name: Python, Go, C/C++, Ruby, Haskel
         level: 20%
