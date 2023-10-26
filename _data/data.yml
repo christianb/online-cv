@@ -92,12 +92,12 @@ experiences:
     title: Experiences
     info:
       - role: Senior Android Developer
-        time: 2022 - Present
+        time: Jun 2022 - Present
         company: Nord Security, Berlin
         details: |
           NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
             - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
-            - Bullet point
+            - Mentoring Junior- and Mid-Level developers
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
