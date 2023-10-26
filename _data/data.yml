@@ -92,35 +92,46 @@ experiences:
     title: Experiences
     info:
       - role: Senior Android Developer
-        time: Jun 2022 - Present
-        company: Nord Security, Berlin
+        time: 2022 - Present
+        company: [Nord Security](https://nordsecurity.com/about-us), Berlin
         details: |
           NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
             - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
             - Mentoring Junior- and Mid-Level developers
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Senior Android Developer
+        time: 2019 - 2022
+        company: [Sensorberg](https://sensorberg.com), Berlin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage.
+            - Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
+            - Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
+            - Integration of third party libraries into Sensorberg SDK
+            - Publishing SDK and libraries to Maven
+            - Working closely with Product, Design, UX, Delivery, Backend-Developers within a SCRUM environment
+            - Develop and maintain GitLab CI pipeline by creating an [Android Docker image](https://github.com/sensorberg/docker-android)
+            - Writing documentation for the [Sensorberg SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
+      - role: Android Developer
+        time: 2016 - 2019
+        company: [Zattoo](https://zattoo.com/company/en/about-us/), Berlin
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices.
+            - Develop the [Zattoo whitelabel App](https://play.google.com/store/apps/details?id=com.zattoo.player) available for Mobile, AndroidTV and FireTV
+            - Increase testability using MVP and Dagger2
+            - Integrate RxJava and Room for reactive data observation
+            - Fix more than 1800 Lint issues
+            - Integration of Crashlytics
+      - role: Junior Android Developer
+        time: 2013 - 2016
+        company: [Zalando SE](https://corporate.zalando.com/en/about-us), Berlin
+        details: |
+          As a leading European online platform for fashion and lifestyle we deliver to customers in 25 countries. In our fashion store, they can find a wide assortment from more than 7,000 brands.
+            - Developed and published the first [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
+            - Contribute developing the [Zalon Android App](https://play.google.com/store/apps/details?id=de.zalon.android)
+            - Developing Backend API (Java / Spring)
+            - Mentor for new employes.
+            - Migrate from custom HTTP implementation to Retrofit
+            - Increase testability
+            - Separating App in layers and applying Clean Architecture
 certifications:
       title: Certifications
       list:
