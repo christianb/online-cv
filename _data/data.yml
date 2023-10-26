@@ -93,14 +93,14 @@ experiences:
     info:
       - role: Senior Android Developer
         time: 2022 - Present
-        company: Nord Security, Berlin
+        company: [Nord Security](https://nordsecurity.com/about-us), Berlin
         details: |
           NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
             - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
             - Mentoring Junior- and Mid-Level developers
       - role: Senior Android Developer
         time: 2019 - 2022
-        company: Sensorberg, Berlin
+        company: [Sensorberg](https://sensorberg.com), Berlin
         details: |
           Sensorberg develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage.
             - Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
@@ -112,7 +112,7 @@ experiences:
             - Writing documentation for the [Sensorberg SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
       - role: Android Developer
         time: 2016 - 2019
-        company: Zattoo, Berlin
+        company: [Zattoo](https://zattoo.com/company/en/about-us/), Berlin
         details: |
           Zattoo is a TV platform for IP-based transmission of television channels and video on demand content to a variety of devices.
             - Develop the [Zattoo whitelabel App](https://play.google.com/store/apps/details?id=com.zattoo.player) available for Mobile, AndroidTV and FireTV
@@ -122,7 +122,7 @@ experiences:
             - Integration of Crashlytics
       - role: Junior Android Developer
         time: 2013 - 2016
-        company: Zalando SE, Berlin
+        company: [Zalando SE](https://corporate.zalando.com/en/about-us), Berlin
         details: |
           As a leading European online platform for fashion and lifestyle we deliver to customers in 25 countries. In our fashion store, they can find a wide assortment from more than 7,000 brands.
             - Developed and published the first [Zalando Android App](https://play.google.com/store/apps/details?id=de.zalando.mobile) 1.0
