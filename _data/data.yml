@@ -118,13 +118,15 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are some of my projects I did for self education.
     assignments:
       - title: Writing an Interpreter in Go
         link: https://github.com/christianb/Monkey-Interpreter-Go
         tagline: "Developing an interpreter for the Monkey language in Go"
+      
+      - title: A Neural Network in Python
+        link: https://github.com/christianb/NeuralNetwork
+        tagline: "Creating a neural network from scratch (no framework) using Python."
 
 skills:
     title: Skills &amp; Proficiency
