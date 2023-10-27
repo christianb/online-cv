@@ -119,17 +119,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Kotlin & Java
+      - name: Kotlin, Java
         level: 95%
 
-      - name: Coroutines & Flow
-        level: 85%
+      - name: Coroutines, Flow
+        level: 90%
 
       - name: JUnit4/5, Mockk, Robolectric, Espresso
+        level: 85%
+
+      - name: Retrofit, OkHttp
         level: 90%
 
       - name: Compose, Room, WorkManager
-        level: 80%
+        level: 90%
 
       - name: Detekt, Koin
         level: 90%
