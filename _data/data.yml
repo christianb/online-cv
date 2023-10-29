@@ -80,6 +80,11 @@ experiences:
           NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
             - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
             - Mentoring Junior- and Mid-Level developers
+            - Refactor all RxJava to Coroutines & Flow
+            - Migrate SharedPreferences to PreferenceDataStore for Coroutines & Flow support
+            - Maintain internal SDKs
+            - Create CI pipeline for automated tests and releases
+            - Supporting PO with Scrum planning
       - role: Senior Android Developer
         time: 2019 - 2022
         company: Sensorberg, Berlin
