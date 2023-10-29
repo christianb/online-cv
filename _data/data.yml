@@ -141,16 +141,19 @@ skills:
         level: 95%
 
       - name: Coroutines, Flow
-        level: 90%
+        level: 80%
 
       - name: JUnit4/5, Mockk, Robolectric, Espresso
         level: 85%
 
       - name: Retrofit, OkHttp
-        level: 90%
+        level: 80%
 
-      - name: Compose, Room, WorkManager
-        level: 90%
+      - name: Room, WorkManager
+        level: 80%
+
+      - name: Compose
+        level: 40%
 
       - name: Detekt, Koin
         level: 90%
