@@ -91,6 +91,7 @@ experiences:
         details: |
           [Sensorberg](https://sensorberg.com) develops hardware and software for the digitization from access to building control systems in the fields: Co-working spaces, commercial, residential real estate and self storage.
             - Development and maintainance of [Sensorberg Android App](https://play.google.com/store/apps/details?id=com.sensorberg.office) (whitelabel), SDK and Libraries
+            - Implement Access Controll via QR-Code, NFC, Bluetooth or IP
             - Increasing Testability by applying Clean Code. Writing Unit and UI tests. Define scenarios for manual testing.
             - Integration of third party libraries into Sensorberg SDK
             - Publishing SDK and libraries to Maven
