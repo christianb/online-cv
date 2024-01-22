@@ -88,6 +88,7 @@ experiences:
             - Maintaining internal SDKs (artifacts & documentation)
             - Taking the lead in Scrum planning
             - Replacing all RxJava with Coroutines and Flow
+            - Android Dev Team size: 1 - 3
       - role: Senior Android Developer
         time: 2019 - 2022
         company: Sensorberg, Berlin
@@ -101,6 +102,7 @@ experiences:
             - Working closely with Product, Design, UX, Delivery, Backend-Developers within a SCRUM environment
             - Develop and maintain GitLab CI pipeline by creating an [Android Docker image](https://github.com/sensorberg/docker-android)
             - Writing documentation for the [Sensorberg SDK](https://developer.sensorberg.com/en/smart-spaces/developers/mobile-sdk/android/)
+            - Android Dev Team size: 1 - 2
       - role: Android Developer
         time: 2016 - 2019
         company: Zattoo, Berlin
@@ -111,6 +113,7 @@ experiences:
             - Integrate RxJava and Room for reactive data observation
             - Fix more than 1800 Lint issues
             - Integration of Crashlytics
+             - Android Dev Team size: 3 - 7
       - role: Junior Android Developer
         time: 2013 - 2016
         company: Zalando, Berlin
@@ -123,6 +126,7 @@ experiences:
             - Migrate from custom HTTP implementation to Retrofit
             - Increase testability
             - Separating App in layers and applying Clean Architecture
+            - Android Dev Team size: 3 - 12
 
 projects:
     title: Projects
