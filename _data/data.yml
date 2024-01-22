@@ -56,9 +56,10 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Pragmatic software developer with  more than 10 years professional experience developing Android applications. 
+      Pragmatic software developer with more than 11 years professional experience developing Android applications. 
       I had the chance working in different domains like e-commerce, IP TV streaming, access control and security.
-      I strongly focus on clear communication, testing and clean code.
+      I strongly focus on clear communication, testing, getting things done and clean code.
+      Developed and published the very first Zalando Android Shopping App in 2013.
 
 education:
     title: Education
@@ -80,11 +81,13 @@ experiences:
           NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
             - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
             - Mentoring Junior- and Mid-Level developers
-            - Refactor all RxJava to Coroutines & Flow
-            - Migrate SharedPreferences to PreferenceDataStore for Coroutines & Flow support
-            - Maintain internal SDKs
-            - Create CI pipeline for automated tests and releases
-            - Supporting PO with Scrum planning
+            - Creating GitLab CI pipeline for automated tests and making releases a one click task
+            - Integrating Lint and Detekt to reach a clean codebase
+            - Writing many Unit and UI tests to reach a decent test coverage 
+            - Significantly decreasing app build time by extraxcting native C libraries into separate repositories and provide them as maven artifacts
+            - Maintaining internal SDKs (artifacts & documentation)
+            - Taking the lead in Scrum planning
+            - Replacing all RxJava with Coroutines and Flow
       - role: Senior Android Developer
         time: 2019 - 2022
         company: Sensorberg, Berlin
