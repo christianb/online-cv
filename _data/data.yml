@@ -74,7 +74,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Senior Android Developer
+      - role: Senior Android (Lead) Developer
         time: 2022 - Present
         company: Nord Security, Berlin
         details: |
@@ -89,7 +89,7 @@ experiences:
             - Taking the lead in Scrum planning
             - Replacing all RxJava with Coroutines and Flow
             - Android Dev Team size: 1 - 3
-      - role: Senior Android Developer
+      - role: Senior Android (Lead) Developer
         time: 2019 - 2022
         company: Sensorberg, Berlin
         details: |
