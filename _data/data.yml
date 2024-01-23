@@ -80,7 +80,7 @@ experiences:
         details: |
           [NordLayer](https://nordlayer.com/) is providing cybersecurity tools for businesses.
             - Developing NordLayers VPN Android App ([Link to PlayStore](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams))
-            - Going from only a few to more than 1000 unit and UI tests to ensure a stable code base (the journey never ends) 
+            - Going from only a few to more than a thousand unit and UI tests to ensure a stable code base (the journey never ends) 
             - Making App release a one click, I built a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
             - Significantly decreasing app (clean) build time by extracting native C libraries into separate repositories and provide them as maven artifacts
             - Analyze and evaluating new technologies or potential security risks
