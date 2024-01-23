@@ -82,12 +82,13 @@ experiences:
             - Developing NordLayers VPN Android App ([Link to PlayStore](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams))
             - Going from only a few to more than 1000 unit and UI tests to ensure a stable code base (the journey never ends) 
             - Making App release a one click, I built a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
-            - Integrating Lint and Detekt checks to ensure a clean codebase
             - Significantly decreasing app (clean) build time by extracting native C libraries into separate repositories and provide them as maven artifacts
+            - Analyze and evaluating new technologies or potential security risks
             - Sharing knowledge by mentoring Junior- and Mid-Level developers
             - Maintaining internal SDKs (artifacts & documentation)
             - Supporting PO by taking the lead in Scrum planning & Backlog grooming
             - Replacing all RxJava with Coroutines and Flow
+            - Integrating Lint and Detekt checks to ensure a clean codebase
             - Android Dev Team size: 1 - 3
       - role: Senior Android (Lead) Developer
         time: 2019 - 2022
