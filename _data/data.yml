@@ -78,15 +78,15 @@ experiences:
         time: 2022 - Present
         company: Nord Security, Berlin
         details: |
-          NordLayer is providing flexible and easy-to-implement cybersecurity tools for businesses of any size or work model.
-            - Developing [NordLayer](https://nordlayer.com/) cybersecurity VPN [Android App](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams)
-            - Mentoring Junior- and Mid-Level developers
-            - Creating GitLab CI pipeline for automated tests and making releases a one click task
-            - Integrating Lint and Detekt to reach a clean codebase
-            - Writing many Unit and UI tests to reach a decent test coverage 
-            - Significantly decreasing app build time by extraxcting native C libraries into separate repositories and provide them as maven artifacts
+          [NordLayer](https://nordlayer.com/) is providing cybersecurity tools for businesses.
+            - Developing NordLayers VPN Android App ([Link to PlayStore](https://play.google.com/store/apps/details?id=com.nordvpn.android.teams))
+            - Going from only a few to more than 1000 unit and UI tests to ensure a stable code base (the journey never ends) 
+            - Making App release a one click, I built a fully automated GitLab CI pipeline (incl a custom Android Docker Image)
+            - Integrating Lint and Detekt checks to ensure a clean codebase
+            - Significantly decreasing app (clean) build time by extracting native C libraries into separate repositories and provide them as maven artifacts
+            - Sharing knowledge by mentoring Junior- and Mid-Level developers
             - Maintaining internal SDKs (artifacts & documentation)
-            - Taking the lead in Scrum planning
+            - Supporting PO by taking the lead in Scrum planning & Backlog grooming
             - Replacing all RxJava with Coroutines and Flow
             - Android Dev Team size: 1 - 3
       - role: Senior Android (Lead) Developer
